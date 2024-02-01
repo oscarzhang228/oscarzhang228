@@ -1,5 +1,5 @@
 # About Me 👨🏻:
-Hey, I'm a student at the Georgia Institute of Technology looking to put my talents at a forward-thinking innovative company focused on employee-growth and solving difficult challenges. I'm motivated, hardworking, and ready to get invested and working on an interesting project. <br>
+Hey, I'm a student at the Georgia Institute of Technology looking to put my talents at a forward-thinking innovative company focused on employee-growth and solving difficult challenges. I'm motivated, hardworking, and ready to get invested and working on an interesting project. <br><br>
 I'm currently working as a: <br>
 ✈️ Software Engineer Intern at Fyve By<br>🥼 Undergraduate Researcher at the Social Dynamics and Wellbeing Lab
 
