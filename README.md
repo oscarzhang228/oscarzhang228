@@ -1,7 +1,5 @@
 # About Me 👨🏻:
 Hey, I'm a student at the Georgia Institute of Technology looking to put my talents at a forward-thinking innovative company focused on employee-growth and solving difficult challenges. I'm motivated, hardworking, and ready to get invested and working on an interesting project. <br><br>
-I'm currently working as a: <br>
-💳 Software Engineer Intern at PayPal<br>🥼 Software Developer at the Social Dynamics and Wellbeing Lab
 
 # Tech Stack 🖥️:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
