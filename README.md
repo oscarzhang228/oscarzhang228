@@ -1,7 +1,7 @@
 # About Me 👨🏻:
 Hey, I'm a student at the Georgia Institute of Technology looking to put my talents at a forward-thinking innovative company focused on employee-growth and solving difficult challenges. I'm motivated, hardworking, and ready to get invested and working on an interesting project. <br><br>
 
-# I'm Experiences With 🖥️:
+# I'm Experienced With 🖥️:
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
