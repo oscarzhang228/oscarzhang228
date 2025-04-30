@@ -1,4 +1,4 @@
-# Oscar Zhang:
+# Oscar Zhang
 
 I'm a senior at the Georgia Institute of Technology looking to put my talents at a forward-thinking innovative company focused on employee-growth and solving difficult challenges. I'm motivated, hardworking, and ready to get invested and working on an interesting project. Contact me at [oscarzhang228@gmail.com](mailto:oscarzhang228@gmail.com).
 
